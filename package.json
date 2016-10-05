@@ -1,0 +1,28 @@
+{
+  "name": "frame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "express": "^4.14.0",
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^4.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^0.11.1",
+    "jQuery": "^1.7.4",
+    "grunt-contrib-watch": "^0.6.1",
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
